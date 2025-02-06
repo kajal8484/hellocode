@@ -45,6 +45,3 @@ If interested, please register yourself at: [Register here](https://lnkd.in/gQ2r
 ## Sliding Window Patterns:
 - [Sliding Window Patterns](https://lnkd.in/gJXxhYae)
 
-## Follow me for more Interview Prep Tips:
-For more interview-specific and job-hunt related content, check out my Instagram:  
-[Instagram Profile](https://lnkd.in/gUVave6x)
